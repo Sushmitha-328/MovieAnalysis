@@ -4,6 +4,11 @@
 This repository contains my **Data Analysis Project** built using Jupyter Notebook.  
 The project demonstrates skills in **data cleaning, exploratory data analysis (EDA), visualization, and insights generation**.
 
+Technologies Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc.)
+- Jupyter Notebook
+- Git & GitHub
+- 
  Key Steps
 1. **Data Collection** → Imported dataset(s) from CSV/Excel.  
 2. **Data Cleaning** → Handled missing values, duplicates, and formatting.  
