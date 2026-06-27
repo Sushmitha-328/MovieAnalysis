@@ -8,7 +8,7 @@ Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc.)
 - Jupyter Notebook
 - Git & GitHub
-- 
+  
  Key Steps
 1. **Data Collection** → Imported dataset(s) from CSV/Excel.  
 2. **Data Cleaning** → Handled missing values, duplicates, and formatting.  
