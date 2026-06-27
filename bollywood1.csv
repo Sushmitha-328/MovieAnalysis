@@ -1,0 +1,150 @@
+SlNo,Release Date,MovieName,ReleaseTime,Genre,Budget,BoxOfficeCollection,YoutubeViews,YoutubeLikes,YoutubeDislikes
+1,25-Oct-13,Zindagi Story Rang Again,N,Thriller,15,25.33,2644057,12425,1690
+2,23-Aug-13,Udaan Story Junoon 2,LW,Romance,18,49.77,4283781,22844,1376
+3,13-Dec-13,Dhadkan House Dulhan Reloaded,HS,Romance,63,114.57,13064026,69480,8767
+4,20-Jun-14,Sapno Dhadkan,LW,Romance,42,81.79,9447173,56282,2864
+5,18-Jul-14,Suraj Junction Don Again,N,Comedy,30,39.35,3896989,17144,2453
+6,15-Feb-13,Shehar One,N,Romance,46,105.35,13231827,77553,2157
+7,27-Sep-13,Rangeela Ka Mandir Again,HS,Action,27,43.64,5275638,34405,2103
+8,25-Oct-13,Talaash Baazi,FS,Romance,75,147.32,19711989,74260,10167
+9,23-Aug-13,Raaz Chapter,N,Drama,15,31.64,2430067,16130,447
+10,22-Nov-13,Kahani One,N,Comedy,26,42.3,5842188,25479,885
+11,28-Feb-14,Ajnabi Bazaar,FS,Comedy,44,120.95,13750654,63484,3696
+12,17-Oct-14,Safar Files Patna,HS,Drama,31,43.37,5166448,21971,2904
+13,18-Apr-14,Awaaz One,N,Romance,11,19.89,1851908,7497,1125
+14,12-Sep-14,Safar One,N,Action,24,52.83,5702582,26541,1403
+15,10-Apr-15,Mast Zero,N,Drama,16,20.48,2065837,9813,564
+16,28-Mar-14,Chand Unlimited,N,Drama,14,25.26,2651847,11041,1376
+17,5-Sep-14,Zindagi One,LW,Romance,68,131.11,16992398,78098,11398
+18,18-Dec-15,Suraj Mumbai,N,Drama,13,21.07,2438869,12090,1608
+19,15-Aug-14,Badla Zero,FS,Drama,23,57.69,5115313,19483,2085
+20,15-Aug-14,Dhadkan Station Khwaab Again,LW,Action,69,161.23,18589872,82024,7930
+21,24-Jan-14,Aakhri Returns Baazi,N,Comedy,63,107.48,12461359,52762,1686
+22,17-Oct-14,Suraj Wala Manzil Reloaded,N,Drama,13,27.21,3133008,13086,1756
+23,4-Apr-14,Nayi Special,HS,Romance,13,26.67,2926337,14927,1084
+24,5-Jun-15,Zindagi 1947,N,Action,27,42.52,5135603,31817,2342
+25,24-Jan-14,Rangeela Returns Tamasha,N,Drama,52,41.74,5049104,29508,1371
+26,25-Oct-13,Mast Returns Dulhan,N,Action,20,35.48,4344925,19871,1135
+27,21-Mar-14,Udaan Patna,FS,Drama,40,75.22,9604544,41336,6259
+28,13-Sep-13,Ishq Story Mausam Forever,HS,Action,20,28.46,4111692,19773,2395
+29,22-Feb-13,Zindagi Returns Baazi,FS,Thriller,25,53.37,6713482,34092,1733
+30,17-Oct-14,Mast Aur Aag,FS,Action,57,54.1,6721001,32573,2220
+31,16-May-14,Ishq Files Manzil 2,N,Drama,16,27.66,2283204,11518,1467
+32,24-May-13,Mast Dhadkan,N,Romance,54,61.22,6529518,33992,3821
+33,6-Sep-13,Junoon Don,N,Thriller,28,30.62,4060121,13845,2613
+34,24-May-13,Shehar Mumbai,N,Drama,24,36.3,3896479,16666,1498
+35,9-May-14,Dil Returns Kolkata Reloaded,FS,Romance,9,16.69,2052291,11349,483
+36,27-Sep-13,Aakhri No Tamasha Forever,HS,Comedy,27,37.83,5132153,28918,2811
+37,29-Nov-13,Badla Junoon,N,Thriller,59,170.47,21432603,89700,12571
+38,12-Jun-15,Badla Unlimited,FS,Comedy,15,23.93,2416135,11297,1180
+39,18-Jul-14,Junoon Unlimited,N,Action,62,48.24,5296882,32022,2499
+40,14-Mar-14,Mumbai Tak Kolkata Forever,N,Thriller,23,51.64,7784853,37827,1628
+41,15-Feb-13,Himmat Don,N,Romance,66,134.5,14510785,84790,5885
+42,26-Jul-13,Rangeela 1947,FS,Action,28,36.59,6062516,38351,1092
+43,27-Sep-13,Khoobsurat Ka Safar 2,HS,Drama,28,65.03,5446720,28078,916
+44,21-Nov-14,Rangeela Returns Zamana,HS,Drama,45,64.92,8615364,50110,3339
+45,21-Feb-14,Zindagi Unlimited,N,Drama,16,30.55,4465903,22420,1967
+46,1-Nov-13,Raat Unlimited,N,Thriller,37,62.17,6562223,40597,1105
+47,3-Oct-14,Nayi Mausam,N,Thriller,25,37.25,4243755,21349,2583
+48,21-Nov-14,Kahani Story Mausam,N,Drama,37,67.07,7198931,43737,3422
+49,19-Apr-13,Safar Rishton,N,Action,79,84.31,12662230,58150,7897
+50,29-Nov-13,Udaan Special,N,Drama,13,21.25,5277267,23463,1728
+51,16-May-14,Chand Junoon,N,Thriller,19,24.8,3100500,17607,2055
+52,30-Aug-13,Ishq Rang,LW,Drama,50,112.23,11361562,61633,4521
+53,26-Apr-13,Himmat Ke Mausam Forever,FS,Action,124,210.76,25412987,123172,13984
+54,4-Jan-13,Raaz Ka Dulhan,N,Romance,56,53.04,6653812,23355,3068
+55,6-Dec-13,Gali House Mausam Forever,N,Comedy,6,9.21,969067,4493,349
+56,6-Feb-15,Badla Returns Punjab Reloaded,N,Comedy,29,49.98,6622314,39579,3130
+57,20-Mar-15,Shehar Nights Queen,N,Action,26,74.37,7299837,28455,1015
+58,1-Mar-13,Dil Toofan,N,Thriller,38,151.78,18481486,115604,3978
+59,21-Feb-14,Khoobsurat Ki Hero,N,Comedy,24,24.22,3380596,20216,1865
+60,4-Sep-15,Talaash Diaries Toofan,HS,Comedy,18,30.72,4893532,25676,1536
+61,17-Oct-14,Kahani Tamasha,FS,Comedy,59,143.87,16436598,83000,6894
+62,31-Oct-14,Nayi Zero,N,Drama,25,26.62,3127275,11623,2158
+63,8-Aug-14,Kahani Goa,LW,Thriller,28,73.28,6596686,37930,2239
+64,21-Feb-14,Khoobsurat Story Goa Again,LW,Comedy,10,17.85,2859257,11443,981
+65,5-Sep-14,Talaash Express Goa,N,Comedy,6,10.93,1541318,6702,1043
+66,3-Jan-14,Raat Express Bazaar,N,Drama,50,61.38,7200773,35085,4231
+67,25-Jul-14,Himmat Dhadkan,N,Drama,52,53.1,5977956,35242,2344
+68,9-Aug-13,Dhadkan Dhadkan,N,Drama,17,55.9,5141567,26866,2604
+69,11-Apr-14,Pyaar Zero,N,Comedy,27,46.47,4766865,25245,648
+70,15-Mar-13,Aakhri Ka Baazi,N,Thriller,12,24.35,2348282,10772,954
+71,25-Jul-14,Suraj Rishton,LW,Action,23,59.41,7640228,49213,1441
+72,7-Mar-14,Sapno 1947,LW,Comedy,7,15.92,4624785,27865,951
+73,9-Aug-13,Himmat Chapter,FS,Thriller,64,148.41,19147368,68370,9517
+74,13-Feb-15,Junoon Wala Mandir,N,Drama,45,70.93,8467726,35678,1637
+75,6-Sep-13,Sapno Wala Hero Forever,LW,Romance,41,77.68,6649124,40671,4548
+76,7-Nov-14,Dhadkan Club Rishton,N,Action,29,23.57,3877987,15344,2384
+77,11-Oct-13,Zindagi Wala Junoon,N,Drama,12,13.81,1230944,5686,124
+78,15-Aug-14,Gali Unlimited,N,Comedy,22,51.69,7051133,42901,3917
+79,5-Apr-13,Shehar House Safar Again,N,Drama,20,27.87,3129508,11579,760
+80,29-Nov-13,Kahani Junction Tamasha,N,Romance,69,71.55,6344065,27016,2606
+81,20-Dec-13,Sapno Mausam,LW,Comedy,20,25.88,2610720,15819,1020
+82,20-Jun-14,Ishq Dilli,N,Thriller,21,27.57,3217324,13436,2077
+83,4-Apr-14,Junoon Zero,HS,Romance,8,19.92,2161497,9613,1410
+84,27-Jun-14,Nayi Se Manzil Reloaded,N,Action,22,20.43,2985706,10518,725
+85,5-Apr-13,Zindagi Club Rishton Again,N,Comedy,23,20.15,2982966,17427,1878
+86,16-Aug-13,Junooni Ki Mausam,HS,Drama,27,36.24,4521205,23211,607
+87,11-Jul-14,Shehar Goa,N,Drama,50,92.08,12287713,76921,1989
+88,10-May-13,Dhadkan Ke Rishton Forever,N,Thriller,28,9.15,1935841,12329,500
+89,14-Jun-13,Badla Station Safar Forever,N,Comedy,60,119.27,11449287,42252,5044
+90,19-Dec-14,Mast Tak Yaar,FS,Thriller,37,62.31,8544392,31970,5072
+91,11-Jan-13,Dil Junoon,N,Romance,38,76.96,15186116,60798,8198
+92,17-Oct-14,Ajnabi Ke Patna Forever,N,Romance,15,15.13,1827378,10353,525
+93,24-May-13,Gali Express Safar Again,FS,Drama,47,72.35,8003819,47700,5306
+94,2-Aug-13,Safar Special,N,Comedy,65,139.49,18568000,105486,10002
+95,5-Dec-14,Awaaz Queen,N,Action,21,34.25,5639470,35488,1635
+96,27-Jun-14,Badla Rang,HS,Drama,12,26.67,2218908,12236,703
+97,4-Jul-14,Raaz Ke Dhamaka 2,FS,Romance,28,59.44,5463245,35945,1937
+98,27-Jun-14,Kahani Files Punjab,N,Romance,44,30.48,4233560,21432,584
+99,14-Nov-14,Sapno Aur Dilli 2,LW,Comedy,49,97.61,9391904,35018,5939
+100,13-Sep-13,Kahani Mein Khwaab 2,N,Action,89,146.67,20352895,105563,11618
+101,22-Aug-14,Kahani Story Bazaar,N,Thriller,52,8.71,2129687,8469,958
+102,22-Mar-13,Ishq Ke Manzil Forever,HS,Drama,43,71.24,8201427,32255,3717
+103,5-Dec-14,Safar Club Mandir 2,N,Comedy,27,31.42,4356110,16758,3042
+104,24-May-13,Shehar Returns Dilli,N,Comedy,15,27.82,2723604,10971,1293
+105,7-Mar-14,Awaaz Chapter,N,Thriller,7,7.29,1225011,5871,773
+106,4-Jan-13,Rangeela Dhamaka,N,Comedy,7,10.08,1158025,7261,372
+107,2-Aug-13,Himmat Kolkata,N,Romance,48,38.1,5104431,22187,3427
+108,30-Aug-13,Delhi Chapter,N,Thriller,44,59.45,7104204,26150,3260
+109,12-Jul-13,Chand Files Manzil Again,N,Drama,47,53.82,6756663,25920,1387
+110,11-Apr-14,Junooni Express Aag 2,N,Thriller,66,89.79,9540941,34853,3848
+111,22-Mar-13,Pyaar Dastaan,N,Action,19,29.71,3502876,22454,2083
+112,17-Oct-14,Udaan Junction Patna,LW,Thriller,23,52.73,6151271,21088,1082
+113,1-May-15,Udaan Tak Kolkata Reloaded,N,Action,79,260.68,30090856,184964,12703
+114,27-Dec-13,Khoobsurat 1947,N,Comedy,26,47.18,6171950,25279,3014
+115,15-Feb-13,Dil Unlimited,N,Thriller,64,45.72,4898419,26124,2158
+116,25-Oct-13,Junoon Ke Safar,N,Comedy,23,51.26,5930572,23439,3051
+117,5-Sep-14,Talaash Dilli,N,Comedy,13,10.16,2156189,12404,611
+118,13-Jun-14,Rangeela Unlimited,HS,Thriller,75,163.27,17796464,80670,9929
+119,14-Nov-14,Kahani Aag,N,Romance,8,11.03,866377,4640,551
+120,15-Feb-13,Raat Zero,HS,Comedy,16,34.79,4029127,24079,1469
+121,21-Feb-14,Zindagi Files Goa,N,Action,77,267.84,24268656,145946,7673
+122,30-Oct-15,Nayi Diaries Hero 2,FS,Thriller,20,54.18,5051127,28397,3488
+123,27-Jun-14,Udaan 1947,N,Romance,71,59.53,6865024,29492,3340
+124,21-Jun-13,Raaz Wala Dhadkan,N,Comedy,25,28.62,3650221,16414,2364
+125,4-Jan-13,Dosti 1947,N,Drama,51,110.19,11447462,41085,4561
+126,26-Sep-14,Chand Ke Queen,N,Thriller,71,103.44,12962453,83295,5543
+127,25-Jan-13,Badla Junction Queen Forever,LW,Action,25,50.93,6128743,40842,3948
+128,11-Apr-14,Dil Dhamaka,N,Comedy,28,20.96,5120387,31290,2794
+129,23-Aug-13,Chand Toofan,FS,Drama,16,36.37,3216307,18261,1496
+130,25-Jan-13,Delhi Aur Dhadkan,N,Thriller,10,18.55,3005381,11550,231
+131,12-Jul-13,Rangeela Tak Rishton Forever,N,Action,25,32.9,4572147,27527,518
+132,20-Dec-13,Talaash Express Mausam,N,Drama,11,10.74,1897176,8859,304
+133,23-May-14,Junoon Patna,N,Action,26,48.83,5022836,25458,1749
+134,22-Aug-14,Aakhri 1947,N,Thriller,28,32.53,3207419,21647,898
+135,10-Oct-14,Dhadkan 1947,N,Comedy,20,16.01,2925903,17790,783
+136,9-May-14,Ishq Wala Kolkata,N,Comedy,20,34.39,4176974,23115,2081
+137,6-Jun-14,Raaz Junction Patna Forever,N,Drama,8,12.4,980710,6503,309
+138,7-Feb-14,Himmat Aag,N,Drama,42,52.62,7713040,48862,5264
+139,22-Feb-13,Dosti Hero,HS,Comedy,13,24.02,2754723,11418,1451
+140,11-Dec-15,Gali Wala Bazaar Again,N,Romance,11,4.25,1235104,3622,766
+141,24-May-13,Nayi Dilli,HS,Action,23,77.67,7805812,29787,2704
+142,8-Feb-13,Pyaar House Toofan,HS,Comedy,57,46.91,4344740,19376,643
+143,31-Jan-14,Mast Ka Aag,N,Thriller,7,9.4,674480,3673,272
+144,10-May-13,Junoon Diaries Hero,N,Thriller,28,35.42,4207850,20763,2415
+145,8-Nov-13,Suraj Manzil,N,Romance,11,14.99,2305499,14599,449
+146,15-Nov-13,Zindagi Special,N,Thriller,17,24.23,2946422,13951,1646
+147,27-Feb-15,Udaan Goa,N,Romance,28,43.62,5761278,36604,3984
+148,7-Mar-14,Aakhri Special,LW,Comedy,16,44.05,3446050,19333,1448
+149,4-Jul-14,Raat Story Queen,N,Comedy,27,44.22,4420354,19259,1323
